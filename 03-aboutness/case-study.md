@@ -6,4 +6,4 @@
 
 ![Siemens2.](img/Siemens2.gif)
 
-![Siemens3.](img/Siemens3.gif)
+![Siemens3.](img/Siemens3-2.gif)
