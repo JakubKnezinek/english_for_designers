@@ -50,4 +50,5 @@ An official knowledge course in Cinema 4D software
 - Graduation study 34-53-L/01
 - (Multimedia graphics and graphic design)
 
-- [Download CV (PDF)](PDF/CV.pdf)
+
+- [Download CV (PDF)](PDF/Jakub Knezinek - CV.pdf)
