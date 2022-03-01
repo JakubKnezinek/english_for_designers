@@ -51,4 +51,4 @@ An official knowledge course in Cinema 4D software
 - (Multimedia graphics and graphic design)
 
 
-- [Download CV (PDF)](PDF/Jakub Knezinek - CV.pdf)
+[Download CV (PDF)](PDF/JakubKnezinekCV.pdf)
