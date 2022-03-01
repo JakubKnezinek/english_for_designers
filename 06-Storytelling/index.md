@@ -1,4 +1,4 @@
-# Storytelling About Me (Jakub Kněžínek)
+# Storytelling
 
 ## Aaa
 Bbb
