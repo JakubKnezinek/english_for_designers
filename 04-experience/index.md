@@ -49,5 +49,3 @@ An official knowledge course in Cinema 4D software
 2015 HIGH SCHOOL OF MEDIA GRAPHICS AND PRINTING
 Graduation study 34-53-L/01
 (Multimedia graphics and graphic design)
-
-- [Download CV (PDF)](PDF/Jakub Knezinek - CV.pdf)
