@@ -1,3 +1,0 @@
-# Jakub Kněžínek
-
-## About me
