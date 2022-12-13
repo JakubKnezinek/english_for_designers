@@ -1,11 +1,8 @@
 # english-for-designers
-Hi I'm Jakub
 
-## About Me
+## Who I'm ?
 
-https://jakubknezinek.cz
+Hi I'm Jakub and yes, I'm graphic designer, film maker and many other?
+If you want to know more about me -> https://jakubknezinek.cz
 
-- My Story
-- CV
-- Voice, Tone, and Style
-- 
+Contact to me [jakub.knezinek@gmail.com]
