@@ -34,21 +34,24 @@ An official knowledge course in Cinema 4D software
 - Filmmaking
 - Webdesign
 
-## Tools
+## My clients
 
-- Illustrator
-- Photoshop
-- Lightroom
-- After effects
-- Premiere
-- Indesign
-- Adobe XD
+- Siemens
+- Bosh
+- Miss Czech republic
+- ZDR Investments
+- Traxial
+- Český královský institut
+- FitBee
+
 
 ## Education
 
 2015 HIGH SCHOOL OF MEDIA GRAPHICS AND PRINTING
 - Graduation study 34-53-L/01
 - (Multimedia graphics and graphic design)
+
+
 
 
 [Download CV (PDF)](PDF/JakubKnezinekCV.pdf)
