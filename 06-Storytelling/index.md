@@ -3,7 +3,7 @@
 My design story
 by Jakub Knezinek
 
-<img src=/06-Storytelling/images/storytelling_timeline.jpg" alt="-">
+<img src="../06-Storytelling/images/storytelling_timeline.jpg" alt="-" width="800">
 
 - first client
 - high school
