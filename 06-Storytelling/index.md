@@ -1,16 +1,13 @@
 # Storytelling
 
-## Aaa
-Bbb
+My design story
+by Jakub Knezinek
 
-## Aaa
-Bbb
+- first client
+- high school
+- Notigo
+- clietns
+- 
 
-## Aaa
-Bbb
-
-## Aaa
-Bbb
-
-## Aaa
-Bbb
+- Download [the slides](images/surname-slides.pdf) <!-- Link to your slides: PDF, Figma, etc. -->
+- View [the process](process.md)
