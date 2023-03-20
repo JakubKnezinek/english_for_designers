@@ -3,9 +3,9 @@ Graphic designer
 
 ## Contact
 
-- Email: jakub.knezinek@gmail.com
+- Email: <jakub.knezinek@gmail.com>
 - Phone: +420 775 975 094
-- Web: www.jakubknezinek.cz
+- Web: <www.jakubknezinek.cz>
 
 ## Experience
 2015 - 2016 SUMMER JOB IN THE PORT62 RESTAURANT
