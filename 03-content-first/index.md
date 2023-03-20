@@ -8,7 +8,7 @@ Besides designing, I enjoy filming and photography. Sometimes I make amateur fil
 I choose the CKI redisgn brand. I think it's a redesign that will help the brand.
 
 ## The Problem
-The customer wanted to modernize the existing logo of the Royal Czech Institute. There was no logo manual created for the logo, no clear rules for using the logo. The red colour was difficult to use in print.
+The customer wanted to modernize the existing logo of the Český královský institut. There was no logo manual created for the logo, no clear rules for using the logo. The red colour was difficult to use in print.
 
 <img src="../img/cki1.jpg" alt="-">
 
