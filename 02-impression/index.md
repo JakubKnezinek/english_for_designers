@@ -4,4 +4,4 @@
 
 please check out my website
 
-www.jakubknezinek.cz
+<a href="https://jakubknezinek.cz">jakubknezinek.cz</a>
