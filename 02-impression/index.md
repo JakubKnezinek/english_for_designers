@@ -2,4 +2,6 @@
 
 ## My website
 
-https://jakubknezinek.cz
+please check out my website
+
+www.jakubknezinek.cz
