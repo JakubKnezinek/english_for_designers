@@ -15,5 +15,13 @@ The customer wanted to modernize the existing logo of the Royal Czech Institute.
 ## Solution
 Redesign of the existing logo. Choice of main font and secondary font.
 
+<img src="../img/cki2.jpg" alt="-">
+
 ## Result
 Created a logomanual that explains the use of the logo on social media and in print. Fonts, colours and usage are prescribed. The customer was very happy with the result
+
+<img src="../img/cki3.jpg" alt="-">
+<img src="../img/cki4.jpg" alt="-">
+<img src="../img/cki5.jpg" alt="-">
+<img src="../img/cki6.jpg" alt="-">
+<img src="../img/cki7.jpg" alt="-">
