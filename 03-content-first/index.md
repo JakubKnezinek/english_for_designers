@@ -25,3 +25,5 @@ Created a logomanual that explains the use of the logo on social media and in pr
 <img src="../img/cki5.jpg" alt="-">
 <img src="../img/cki6.jpg" alt="-">
 <img src="../img/cki7.jpg" alt="-">
+
+!! add desribtion for images, conclusion - what I learned
