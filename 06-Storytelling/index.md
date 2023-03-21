@@ -37,5 +37,5 @@ This was Notigo's story and my story.
 
 
 
-[You can download slides here](06-Storytelling/My_design_story-slides.pdf)
+[You can download slides here](My_design_story-slides.pdf)
 
