@@ -34,3 +34,8 @@ Should I leave the company and sell it? Or buy his part of the company from my c
 I used the money to grow my current business. I decide on my own strategy and I am happy. Notigo continues to be run by my cousin as he sees fit.
 
 This was Notigo's story and my story.
+
+
+
+[You can download slides here](06-Storytelling/My_design_story-slides.pdf)
+
