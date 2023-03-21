@@ -11,3 +11,5 @@ Contact to me `jakub.knezinek@gmail.com`
 - [Experience](04-experience)
 - [Voice and Tone](05_voice-and-tone)
 - [Storytelling](06-Storytelling)
+- [Thesis abstract](07-thesis-abstract)
+- 
