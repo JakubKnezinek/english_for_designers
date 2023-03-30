@@ -10,5 +10,4 @@ The theoretical part of the thesis analyzes concepts of corporate identity, bran
 The thesis contributes to the theoretical and practical understanding the process of creating corporate identity and marketing strategies for a graphic platform.
 
 
-Keywords
-corporate identity, Graphico, graphic design, marketing strategy, branding, logo, visual style, Czech and Slovak market, web platform, graphic services
+Keywords: corporate identity, Graphico, graphic design, marketing strategy, branding, logo, visual style, Czech and Slovak market, web platform, graphic services
