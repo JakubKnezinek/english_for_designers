@@ -3,10 +3,12 @@
 by Jakub Knezinek
 
 
-This thesis deals with the creation of corporate identity of a startup company. Graphico is a service that connects the demand and supply of graphic services.
+My bachelor's thesis focuses on creating a corporate identity and marketing strategies for the future brand Graphico, which aspires to become a web and mobile platform providing graphic services in the Czech and Slovak markets. The goal of the thesis is to design a comprehensive visual system for the brand, reflecting its values and objectives, and to present marketing strategies that could contribute to its success in the market.
 
-The procedure deals with all the important elements for creating a corporate identity for a company. It also describes how the business model works.
+The theoretical part of the thesis analyzes concepts of corporate identity, branding, marketing strategies, and the business model of the Graphico brand. In the practical part, the design of the logo, color scheme, typography, and other visual elements that form the corporate identity of the brand are presented. The result of the thesis is a comprehensive corporate identity for the Graphico brand and a proposal of marketing strategies that take into account the specifics of the Czech and Slovak markets.
 
-The practical part uses the knowledge gained from the literature used and from the study itself. It implements them in the creation of the visual style of the company and the creation of brand communication. It also describes the marketing strategy of the brand and how to launch the startup on the Czech market.
+The thesis contributes to the theoretical and practical understanding the process of creating corporate identity and marketing strategies for a graphic platform.
 
-Keywords: visual style, communication, brand, corporate identity, branding, brand creation, visual identity, logo, startup company
+
+Keywords
+corporate identity, Graphico, graphic design, marketing strategy, branding, logo, visual style, Czech and Slovak market, web platform, graphic services
