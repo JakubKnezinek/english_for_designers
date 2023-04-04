@@ -4,5 +4,3 @@ The letter N is my favorite. I named my company Notigo. I was looking for a 6-le
 Sounds nice :)
 
 <img src="../img/letter_N.jpg" alt="-">
-
-!! add describe
