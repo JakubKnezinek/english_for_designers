@@ -14,6 +14,14 @@ The theoretical part of the thesis will elaborate on corporate identity issues, 
 The practical part of the thesis will present the logo design and corporate identity for the Graphico brand. This design will include the development of a logotype, colour scheme, typography, visual style and other graphic elements that will form a unified visual system for the brand. The proposal will be developed taking into account the theoretical knowledge gained during the development of the thesis and will reflect the values and objectives of the Graphico brand.
 The aim of this bachelor thesis is to provide a comprehensive proposal of the corporate identity for the Graphico brand and to propose marketing strategies that could contribute to its success on the Czech and Slovak graphic services market.
 
+<img src="../08-thesis-presentation/img/logo.png" alt="main graphico logo">
+Main Graphico logo - 2 colour variants
+
+<img src="../08-thesis-presentation/img/logo variants.png" alt="horizontal and vertical variations">
+Logo variants - vartical/horizontal
+
+<img src="../08-thesis-presentation/img/picto.png" alt="mark">
+The mark
 
 ## Graphico characteristics
 The Graphico brand will represent an innovative web platform that will focus on facilitating the demand for graphic services in the Czech and Slovak markets. This web application will be inspired by the Fiverr platform, but will specialise only in graphic services such as logo creation, web pages, posters and many more.
@@ -23,6 +31,13 @@ Graphico's vision is to become the leading provider of graphic services in the C
 Graphico's mission is to create a platform that allows easy access to a wide range of graphic design services, simplify communication between customers and designers, and increase the efficiency of the entire process of ordering and completing projects. The brand is also committed to supporting local talent and businesses by providing them with the tools and opportunities to grow and develop.
 In the long term, Graphico wants to be seen as a trusted and innovative brand that delivers value and satisfaction to customers and designers. Graphico aims to achieve this by continuously improving its services, technologies and tools to make it easier for customers and designers to collaborate and create successful projects.
 In line with this vision and mission, Graphico will work tirelessly to strengthen its position in the market, building a strong brand and support for its community of designers and customers. In this way, Graphico will contribute to the creative growth and development of the Czech and Slovak graphic services market.
+
+<img src="../08-thesis-presentation/img/posters.jpg" alt="posters">
+How communication will works on posters
+
+<img src="../08-thesis-presentation/img/social1.jpg" alt="social 1">
+<img src="../08-thesis-presentation/img/social2.jpg" alt="social 2">
+How communication will works on socials. The brand will communicate through typography and images in the cut.
 
 ## Conclusion
 In my bachelor thesis I focused on the design of corporate identity and marketing strategies for the brand Graphico, which is to operate in the future on the Czech and Slovak market as a web and mobile platform providing graphic services. The aim of the work was to design a comprehensive visual system for the brand that would match its values and goals, and to present marketing strategies that could contribute to its success on the market.
