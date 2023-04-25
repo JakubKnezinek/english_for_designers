@@ -52,3 +52,5 @@ In line with this vision and mission, Graphico will work tirelessly to strengthe
 
 ## Conclusion
 In my bachelor thesis I focused on the design of corporate identity and marketing strategies for the brand Graphico, which is to operate in the future on the Czech and Slovak market as a web and mobile platform providing graphic services. The aim of the work was to design a comprehensive visual system for the brand that would match its values and goals, and to present marketing strategies that could contribute to its success on the market.
+
+[Download PRESENTATION (PDF)](Thesis presentation - Corporate identity Graphico.pdf)
