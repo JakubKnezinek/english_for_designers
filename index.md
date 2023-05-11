@@ -13,3 +13,4 @@ Contact to me `jakub.knezinek@gmail.com`
 - [Storytelling](06-Storytelling)
 - [Thesis abstract](07-thesis-abstract)
 - [Thesis presentation](08-thesis-presentation)
+- [Year End Review](year-end-review)
